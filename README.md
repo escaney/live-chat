@@ -1,19 +1,18 @@
 # live-chat
 
-## Project setup
-```
-npm install
-```
+## Project commands
+### Currently disabled hosting
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+`npm install`
 
-### Compiles and minifies for production
-```
-npm run build
-```
+`npm run serve`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`npm run build`
+
+`firebase deploy`
+
+## To do
+
+* styles and code tidy up
+* additional security before re-deployment
+
